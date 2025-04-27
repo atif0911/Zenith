@@ -1,0 +1,14 @@
+Close
+Volume
+MA14
+MA50
+Price_Change
+RSI
+MACD
+MACD_Signal
+MACD_Hist
+Volatility
+RSI_Change
+MACD_Change
+MA_Ratio
+Price_MA14_Ratio
